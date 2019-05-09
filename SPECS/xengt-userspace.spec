@@ -4,7 +4,7 @@
 Summary: %{vendor_name} %{driver_name} userspace
 Name: %{driver_name}-userspace
 Version: 4.0.0
-Release: 1
+Release: 1%{?dist}
 Vendor: %{vendor_name}
 License: GPLv2
 Group: System Environment/Base
